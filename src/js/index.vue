@@ -25,7 +25,7 @@ export default {
 }
 
 body {
-    background: #fff;
+    background: #f0f0f0;
 }
 
 .app {
